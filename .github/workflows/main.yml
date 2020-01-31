@@ -1,4 +1,4 @@
-on: [push]
+on: push
 name: Main workflow
 jobs:
   github-action:
